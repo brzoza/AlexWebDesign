@@ -1,0 +1,1 @@
+Cufon.replace('h1 a', { fontFamily: 'Fineliner Script', hover:true, textShadow: '#bd7d09 1px 1px'});
